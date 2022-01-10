@@ -1,5 +1,5 @@
 # Deepdream Eyes
-Made in collaboration with Chris George.
+Made in collaboration with Chris George for Art + ML Spring 2019.
 Course Website: https://kangeunsu.com/artml19s/
 
 ## Final Results
