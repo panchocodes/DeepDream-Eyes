@@ -1,4 +1,6 @@
-# Eye
+# Deepdream Eyes
+Made in collaboration with Chris George.
+Course Website: https://kangeunsu.com/artml19s/
 
 ## Final Results
 ### Original images are the `inital_#` images.
