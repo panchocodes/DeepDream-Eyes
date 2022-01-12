@@ -12,6 +12,10 @@ Course Website: https://kangeunsu.com/artml19s/
 ![](./final_3.png "(3.2)")
 ![](./final_4.png "(4.2)")
 
+## All Channels Video
+
+https://youtu.be/BRbcq71nEtY
+
 ## Code
 #### deep_dream_edit.py
 The code we wrote was only for easily running a photo on a specific layer and every channel in that layer. We modified the `render_deapdream` function so that it returned the image to be saved into the correct directory.
