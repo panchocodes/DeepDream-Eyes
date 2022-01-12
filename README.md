@@ -31,9 +31,5 @@ for i in range(1, 84):
 ```
 We included two of those tests in this repo. One was for `mized4d_3x3_bottleneck_pre_relu` and another was for `mixed4b_3x3_bottleneck_pre_relu`.
 
-#### Image
-We used the following image and you will see the images laid out in the readmes of the respective layers.
-![Alt text](./bath.jpg?raw=true "Bath Lady")
-
 ## Intermediate Results
 We also had some intermediate results before we settled on eyes for our final project. Some of those results can be found in the intermediate results folder.
